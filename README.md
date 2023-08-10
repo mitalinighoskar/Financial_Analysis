@@ -1,14 +1,14 @@
 # Personal Finance Data Analysis and Visualization Project
 
-                                                       # Project Description #
+                                                     # Project Description #
 Conducted a comprehensive analysis of my personal financial data(bank statements per month) using SQL, Excel, and Python to gain insights into spending habits, detect anomalies, and Ratio analysis. Employed data visualization techniques to present trends and patterns.
 
-         # Skills Used #
+                                                     # Skills Used #
 * SQL: Utilized SQL queries to extract and manipulate financial data from a database.
 * Data Analysis: Employed data analysis techniques to identify spending patterns and anomalies.
 * Data Visualization: Created visually compelling graphs and charts using Matplotlib to communicate findings effectively.
 
-      # SQL Code Description #
+                                                  # SQL Code Description #
 1. Total Withdrawals and Deposits: This query calculates the total withdrawals and total deposits for each month. It extracts the month from the Date column and then calculates the sums of Withdrawal_amt and Deposit_amt for each month.
    
 2. Monthly Net Change in Balance: Similar to the first query, this query calculates the net change in balance for each month. It calculates the difference between the sum of deposit amounts and the sum of withdrawal amounts for each month.
@@ -21,7 +21,7 @@ Conducted a comprehensive analysis of my personal financial data(bank statements
   
 6. Ratio Analysis: This query performs a variety of ratio calculations related to financial analysis. It calculates average withdrawal and deposit amounts, total withdrawals and deposits, average closing balance, maximum and minimum closing balances, range of closing balances, average savings ratio (total deposits minus total withdrawals divided by the number of transactions), and expense-to-income ratio (total expenses divided by total income).
 
-                                                          # Data Visualisation through Pandas #
+                                                # Data Visualisation through Pandas #
 
    Retrieves data from a MySQL database, processes it using pandas and generates various visualizations to explore different aspects of the financial data.
    
