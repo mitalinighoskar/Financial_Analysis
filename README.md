@@ -1,9 +1,9 @@
 # Personal Finance Data Analysis and Visualization Project
 
-                                                  # Project Description #
+                                                 # Project Description #
 Conducted a comprehensive analysis of my personal financial data(bank statements per month) using SQL, Excel, and Python to gain insights into spending habits, detect anomalies, and Ratio analysis. Employed data visualization techniques to present trends and patterns.
 
-                                                  # Skills Used #
+                                                     # Skills Used #
 * SQL: Utilized SQL queries to extract and manipulate financial data from a database.
 * Data Analysis: Employed data analysis techniques to identify spending patterns and anomalies.
 * Data Visualization: Created visually compelling graphs and charts using Matplotlib to communicate findings effectively.
